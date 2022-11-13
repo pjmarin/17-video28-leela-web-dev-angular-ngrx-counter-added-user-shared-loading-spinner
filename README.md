@@ -1,1 +1,1 @@
-# 17-video28-leela-web-dev-angular-ngrx-counter-added-user-shared-loading-spinner
+# 17-video28-leela-web-dev-angular-ngrx-counter-added-shared-loading-spinner
